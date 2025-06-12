@@ -19,7 +19,8 @@ Kısacası: Sistemin uçtan uca API testlerini içeriyor.
 ## 📁 Proje Yapısı
 
 - `tests`: Test dosyaları burada bulunur.
-- `models`: Gönderilen ve alınan veriler için sınıflar burada yer alır.
+- `request`: Gönderilen veriler için sınıflar burada yer alır.
+- `response`: Alınan veriler için sınıflar burada yer alır.
 - `utils`: Ortak kullanılan veriler ve yardımcı dosyalar.
 
 ---
