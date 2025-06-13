@@ -2,6 +2,8 @@
 
 Bu proje, [Restful Booker](https://restful-booker.herokuapp.com) adlı bir test sisteminin API’lerini kontrol etmek için hazırlanmıştır. Amaç, sistemin doğru çalışıp çalışmadığını otomatik testlerle kontrol etmektir.
 
+Not: Testler birbirne bağlı ve sırayla çalışmaktadır. Bu sebeple ayrı çalıştırmalarda hata alınabilir.
+
 ---
 
 ## 🔧 Neler Yapıyor?
@@ -12,7 +14,6 @@ Bu proje, [Restful Booker](https://restful-booker.herokuapp.com) adlı bir test 
 - Rezervasyonu silme
 - Yapılan işlemleri kontrol etme
 
-Kısacası: Sistemin uçtan uca API testlerini içeriyor.
 
 ---
 
