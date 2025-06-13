@@ -1,170 +1,242 @@
-2025-06-12 15:05:15 [main] INFO  HTTPRequests - Http request body is ready
-2025-06-12 15:13:53 [main] INFO  HTTPRequests - Test completed
-2025-06-12 15:14:08 [main] INFO  HTTPRequests - Test completed
-2025-06-12 16:15:53 [main] INFO  HTTPRequests - Test completed
-2025-06-12 17:14:29 [main] INFO  HTTPRequests - Test completed
-2025-06-12 17:14:54 [main] INFO  HTTPRequests - Test completed
-2025-06-12 21:30:54 [main] INFO  HTTPRequests - Http request body is ready
-2025-06-12 21:30:56 [main] INFO  HTTPRequests - Test completed
-2025-06-12 21:36:05 [main] INFO  HTTPRequests - Test completed
-2025-06-12 21:48:20 [main] INFO  HTTPRequests - Test completed
-2025-06-12 21:51:35 [main] INFO  HTTPRequests - Http request body is ready
-2025-06-12 21:51:37 [main] INFO  HTTPRequests - Test completed
-2025-06-12 22:35:47 [main] INFO  HTTPRequests - Test completed
-2025-06-12 22:36:54 [main] INFO  HTTPRequests - Http request body is ready
-2025-06-12 22:36:56 [main] INFO  HTTPRequests - Test completed
-2025-06-12 22:37:21 [main] INFO  HTTPRequests - Test completed
-2025-06-12 22:40:05 [main] INFO  HTTPRequests - Test completed
-2025-06-12 22:40:30 [main] INFO  HTTPRequests - Http request body is ready
-2025-06-12 22:40:32 [main] INFO  HTTPRequests - Test completed
-2025-06-12 23:18:44 [main] INFO  HTTPRequests - Http request body is ready
-2025-06-12 23:19:04 [main] INFO  HTTPRequests - Http request body is ready
-2025-06-12 23:19:06 [main] INFO  HTTPRequests - Test completed
-2025-06-12 23:21:21 [main] INFO  HTTPRequests - Http request body is ready
-2025-06-12 23:21:23 [main] INFO  HTTPRequests - Test completed
-2025-06-12 23:22:22 [main] INFO  HTTPRequests - Test completed
-2025-06-12 23:22:36 [main] INFO  HTTPRequests - Http request body is ready
-2025-06-12 23:22:38 [main] INFO  HTTPRequests - Test completed
-2025-06-12 23:22:53 [main] INFO  HTTPRequests - Test completed
-2025-06-12 23:28:25 [main] INFO  HTTPRequests - Http request body is ready
-2025-06-12 23:28:27 [main] INFO  HTTPRequests - Test completed
-2025-06-12 23:29:21 [main] INFO  HTTPRequests - Http request body is ready
-2025-06-12 23:29:23 [main] INFO  HTTPRequests - Test completed
-2025-06-12 23:30:15 [main] INFO  HTTPRequests - Test completed
-2025-06-12 23:30:33 [main] INFO  HTTPRequests - Test completed
-2025-06-12 23:50:38 [main] INFO  HTTPRequests - Test completed
-2025-06-12 23:50:38 [main] INFO  HTTPRequests - Http request body is ready
-2025-06-12 23:50:39 [main] INFO  HTTPRequests - Test completed
-2025-06-12 23:50:41 [main] INFO  HTTPRequests - Test completed
-2025-06-12 23:58:50 [main] INFO  HTTPRequests - Test completed
-2025-06-12 23:58:50 [main] INFO  HTTPRequests - Http request body is ready
-2025-06-12 23:58:50 [main] INFO  HTTPRequests - Test completed
-2025-06-12 23:58:53 [main] INFO  HTTPRequests - Test completed
-2025-06-13 00:03:25 [main] INFO  HTTPRequests - Http request body is ready
-2025-06-13 00:03:27 [main] INFO  HTTPRequests - Test completed
-2025-06-13 00:03:28 [main] INFO  HTTPRequests - Test completed
-2025-06-13 00:03:30 [main] INFO  HTTPRequests - Test completed
-2025-06-13 00:06:04 [main] INFO  HTTPRequests - Http request body is ready
-2025-06-13 00:06:06 [main] INFO  HTTPRequests - Test completed
-2025-06-13 00:06:08 [main] INFO  HTTPRequests - Test completed
-2025-06-13 00:06:08 [main] INFO  HTTPRequests - Test completed
-2025-06-13 00:06:09 [main] INFO  HTTPRequests - Test completed
-2025-06-13 00:12:05 [main] INFO  HTTPRequests - Http request body is ready
-2025-06-13 00:12:07 [main] INFO  HTTPRequests - Test completed
-2025-06-13 00:12:07 [main] INFO  HTTPRequests - Http request body is ready
-2025-06-13 00:12:08 [main] INFO  HTTPRequests - Test completed
-2025-06-13 00:12:09 [main] INFO  HTTPRequests - Test completed
-2025-06-13 00:12:10 [main] INFO  HTTPRequests - Test completed
-2025-06-13 00:12:11 [main] INFO  HTTPRequests - Test completed
-2025-06-13 00:15:34 [main] INFO  HTTPRequests - Http request body is ready
-2025-06-13 00:15:36 [main] INFO  HTTPRequests - Test completed
-2025-06-13 00:15:37 [main] INFO  HTTPRequests - Test completed
-2025-06-13 00:15:38 [main] INFO  HTTPRequests - Test completed
-2025-06-13 00:15:38 [main] INFO  HTTPRequests - Test completed
-2025-06-13 00:15:39 [main] INFO  HTTPRequests - Test completed
-2025-06-13 00:17:15 [main] INFO  HTTPRequests - Http request body is ready
-2025-06-13 00:17:17 [main] INFO  HTTPRequests - Test completed
-2025-06-13 00:17:18 [main] INFO  HTTPRequests - Test completed
-2025-06-13 00:17:19 [main] INFO  HTTPRequests - Test completed
-2025-06-13 00:17:20 [main] INFO  HTTPRequests - Test completed
-2025-06-13 00:17:20 [main] INFO  HTTPRequests - Test completed
-2025-06-13 00:18:34 [main] INFO  HTTPRequests - Http request body is ready
-2025-06-13 00:18:36 [main] INFO  HTTPRequests - Test completed
-2025-06-13 00:18:37 [main] INFO  HTTPRequests - Test completed
-2025-06-13 00:18:38 [main] INFO  HTTPRequests - Test completed
-2025-06-13 00:18:39 [main] INFO  HTTPRequests - Test completed
-2025-06-13 00:18:39 [main] INFO  HTTPRequests - Test completed
-2025-06-13 00:25:31 [main] INFO  HTTPRequests - CreateToken------------
-2025-06-13 00:25:31 [main] INFO  HTTPRequests - Api request body is ready
-2025-06-13 00:25:32 [main] INFO  HTTPRequests - Test completed
-2025-06-13 00:25:35 [main] INFO  HTTPRequests - CreateToken------------
-2025-06-13 00:25:35 [main] INFO  HTTPRequests - Api request body is ready
-2025-06-13 00:25:37 [main] INFO  HTTPRequests - Test completed
-2025-06-13 00:25:37 [main] INFO  HTTPRequests - GetBookingIds------------
-2025-06-13 00:25:37 [main] INFO  HTTPRequests - Api request is ready
-2025-06-13 00:25:38 [main] INFO  HTTPRequests - Test completed
-2025-06-13 00:25:38 [main] INFO  HTTPRequests - GetBooking------------
-2025-06-13 00:25:38 [main] INFO  HTTPRequests - Api request body is ready
-2025-06-13 00:25:39 [main] INFO  HTTPRequests - Test completed
-2025-06-13 00:25:39 [main] INFO  HTTPRequests - CreateBooking------------
-2025-06-13 00:25:39 [main] INFO  HTTPRequests - Api request body is ready
-2025-06-13 00:25:39 [main] INFO  HTTPRequests - Test completed
-2025-06-13 00:25:39 [main] INFO  HTTPRequests - UpdateBooking------------
-2025-06-13 00:25:39 [main] INFO  HTTPRequests - Api request body is ready
-2025-06-13 00:25:40 [main] INFO  HTTPRequests - Test completed
-2025-06-13 00:25:40 [main] INFO  HTTPRequests - PartialUpdateBooking------------
-2025-06-13 00:25:40 [main] INFO  HTTPRequests - Api request body is ready
-2025-06-13 00:25:41 [main] INFO  HTTPRequests - Test completed
-2025-06-13 00:25:41 [main] INFO  HTTPRequests - DeleteBooking------------
-2025-06-13 00:25:41 [main] INFO  HTTPRequests - Api request is ready
-2025-06-13 00:25:42 [main] INFO  HTTPRequests - HealthCheck------------
-2025-06-13 00:25:42 [main] INFO  HTTPRequests - DeleteBooking------------
-2025-06-13 00:26:58 [main] INFO  HTTPRequests - CreateToken------------
-2025-06-13 00:26:58 [main] INFO  HTTPRequests - Api request body is ready
-2025-06-13 00:27:00 [main] INFO  HTTPRequests - Test completed
-2025-06-13 00:27:00 [main] INFO  HTTPRequests - GetBookingIds------------
-2025-06-13 00:27:00 [main] INFO  HTTPRequests - Api request is ready
-2025-06-13 00:27:02 [main] INFO  HTTPRequests - Test completed
-2025-06-13 00:27:02 [main] INFO  HTTPRequests - GetBooking------------
-2025-06-13 00:27:02 [main] INFO  HTTPRequests - Api request body is ready
-2025-06-13 00:27:02 [main] INFO  HTTPRequests - Test completed
-2025-06-13 00:27:02 [main] INFO  HTTPRequests - CreateBooking------------
-2025-06-13 00:27:02 [main] INFO  HTTPRequests - Api request body is ready
-2025-06-13 00:27:03 [main] INFO  HTTPRequests - Test completed
-2025-06-13 00:27:03 [main] INFO  HTTPRequests - UpdateBooking------------
-2025-06-13 00:27:03 [main] INFO  HTTPRequests - Api request body is ready
-2025-06-13 00:27:04 [main] INFO  HTTPRequests - Test completed
-2025-06-13 00:27:04 [main] INFO  HTTPRequests - PartialUpdateBooking------------
-2025-06-13 00:27:04 [main] INFO  HTTPRequests - Api request body is ready
-2025-06-13 00:27:05 [main] INFO  HTTPRequests - Test completed
-2025-06-13 00:27:05 [main] INFO  HTTPRequests - DeleteBooking------------
-2025-06-13 00:27:05 [main] INFO  HTTPRequests - Api request is ready
-2025-06-13 00:27:05 [main] INFO  HTTPRequests - Test completed
-2025-06-13 00:27:05 [main] INFO  HTTPRequests - HealthCheck------------
-2025-06-13 00:27:05 [main] INFO  HTTPRequests - DeleteBooking------------
-2025-06-13 00:33:16 [main] INFO  HTTPRequests - CreateToken------------
-2025-06-13 00:33:16 [main] INFO  HTTPRequests - Api request body is ready
-2025-06-13 00:33:18 [main] INFO  HTTPRequests - Test completed
-2025-06-13 00:33:18 [main] INFO  HTTPRequests - GetBookingIds------------
-2025-06-13 00:33:18 [main] INFO  HTTPRequests - Api request is ready
-2025-06-13 00:33:19 [main] INFO  HTTPRequests - Test completed
-2025-06-13 00:33:19 [main] INFO  HTTPRequests - GetBooking------------
-2025-06-13 00:33:19 [main] INFO  HTTPRequests - Api request body is ready
-2025-06-13 00:33:20 [main] INFO  HTTPRequests - Test completed
-2025-06-13 00:33:20 [main] INFO  HTTPRequests - CreateBooking------------
-2025-06-13 00:33:20 [main] INFO  HTTPRequests - Api request body is ready
-2025-06-13 00:33:20 [main] INFO  HTTPRequests - Test completed
-2025-06-13 00:33:20 [main] INFO  HTTPRequests - UpdateBooking------------
-2025-06-13 00:33:20 [main] INFO  HTTPRequests - Api request body is ready
-2025-06-13 00:33:21 [main] INFO  HTTPRequests - Test completed
-2025-06-13 00:33:21 [main] INFO  HTTPRequests - PartialUpdateBooking------------
-2025-06-13 00:33:21 [main] INFO  HTTPRequests - Api request body is ready
-2025-06-13 00:33:22 [main] INFO  HTTPRequests - Test completed
-2025-06-13 00:33:22 [main] INFO  HTTPRequests - DeleteBooking------------
-2025-06-13 00:33:22 [main] INFO  HTTPRequests - Api request is ready
-2025-06-13 00:33:23 [main] INFO  HTTPRequests - Test completed
-2025-06-13 00:33:23 [main] INFO  HTTPRequests - HealthCheck------------
-2025-06-13 00:33:23 [main] INFO  HTTPRequests - DeleteBooking------------
-2025-06-13 00:36:51 [main] INFO  HTTPRequests - CreateToken------------
-2025-06-13 00:36:51 [main] INFO  HTTPRequests - Api request body is ready
-2025-06-13 00:36:53 [main] INFO  HTTPRequests - Test completed
-2025-06-13 00:36:53 [main] INFO  HTTPRequests - GetBookingIds------------
-2025-06-13 00:36:53 [main] INFO  HTTPRequests - Api request is ready
-2025-06-13 00:36:54 [main] INFO  HTTPRequests - Test completed
-2025-06-13 00:36:54 [main] INFO  HTTPRequests - GetBooking------------
-2025-06-13 00:36:54 [main] INFO  HTTPRequests - Api request body is ready
-2025-06-13 00:36:55 [main] INFO  HTTPRequests - Test completed
-2025-06-13 00:36:55 [main] INFO  HTTPRequests - CreateBooking------------
-2025-06-13 00:36:55 [main] INFO  HTTPRequests - Api request body is ready
-2025-06-13 00:36:56 [main] INFO  HTTPRequests - Test completed
-2025-06-13 00:36:56 [main] INFO  HTTPRequests - UpdateBooking------------
-2025-06-13 00:36:56 [main] INFO  HTTPRequests - Api request body is ready
-2025-06-13 00:36:56 [main] INFO  HTTPRequests - Test completed
-2025-06-13 00:36:56 [main] INFO  HTTPRequests - PartialUpdateBooking------------
-2025-06-13 00:36:56 [main] INFO  HTTPRequests - Api request body is ready
-2025-06-13 00:36:57 [main] INFO  HTTPRequests - Test completed
-2025-06-13 00:36:57 [main] INFO  HTTPRequests - DeleteBooking------------
-2025-06-13 00:36:57 [main] INFO  HTTPRequests - Api request is ready
-2025-06-13 00:36:58 [main] INFO  HTTPRequests - Test completed
-2025-06-13 00:36:58 [main] INFO  HTTPRequests - HealthCheck------------
-2025-06-13 00:36:58 [main] INFO  HTTPRequests - DeleteBooking------------
+2025-06-12 15:05:15 [main] INFO  tests.ApiTests - Http request body is ready
+2025-06-12 15:13:53 [main] INFO  tests.ApiTests - Test completed
+2025-06-12 15:14:08 [main] INFO  tests.ApiTests - Test completed
+2025-06-12 16:15:53 [main] INFO  tests.ApiTests - Test completed
+2025-06-12 17:14:29 [main] INFO  tests.ApiTests - Test completed
+2025-06-12 17:14:54 [main] INFO  tests.ApiTests - Test completed
+2025-06-12 21:30:54 [main] INFO  tests.ApiTests - Http request body is ready
+2025-06-12 21:30:56 [main] INFO  tests.ApiTests - Test completed
+2025-06-12 21:36:05 [main] INFO  tests.ApiTests - Test completed
+2025-06-12 21:48:20 [main] INFO  tests.ApiTests - Test completed
+2025-06-12 21:51:35 [main] INFO  tests.ApiTests - Http request body is ready
+2025-06-12 21:51:37 [main] INFO  tests.ApiTests - Test completed
+2025-06-12 22:35:47 [main] INFO  tests.ApiTests - Test completed
+2025-06-12 22:36:54 [main] INFO  tests.ApiTests - Http request body is ready
+2025-06-12 22:36:56 [main] INFO  tests.ApiTests - Test completed
+2025-06-12 22:37:21 [main] INFO  tests.ApiTests - Test completed
+2025-06-12 22:40:05 [main] INFO  tests.ApiTests - Test completed
+2025-06-12 22:40:30 [main] INFO  tests.ApiTests - Http request body is ready
+2025-06-12 22:40:32 [main] INFO  tests.ApiTests - Test completed
+2025-06-12 23:18:44 [main] INFO  tests.ApiTests - Http request body is ready
+2025-06-12 23:19:04 [main] INFO  tests.ApiTests - Http request body is ready
+2025-06-12 23:19:06 [main] INFO  tests.ApiTests - Test completed
+2025-06-12 23:21:21 [main] INFO  tests.ApiTests - Http request body is ready
+2025-06-12 23:21:23 [main] INFO  tests.ApiTests - Test completed
+2025-06-12 23:22:22 [main] INFO  tests.ApiTests - Test completed
+2025-06-12 23:22:36 [main] INFO  tests.ApiTests - Http request body is ready
+2025-06-12 23:22:38 [main] INFO  tests.ApiTests - Test completed
+2025-06-12 23:22:53 [main] INFO  tests.ApiTests - Test completed
+2025-06-12 23:28:25 [main] INFO  tests.ApiTests - Http request body is ready
+2025-06-12 23:28:27 [main] INFO  tests.ApiTests - Test completed
+2025-06-12 23:29:21 [main] INFO  tests.ApiTests - Http request body is ready
+2025-06-12 23:29:23 [main] INFO  tests.ApiTests - Test completed
+2025-06-12 23:30:15 [main] INFO  tests.ApiTests - Test completed
+2025-06-12 23:30:33 [main] INFO  tests.ApiTests - Test completed
+2025-06-12 23:50:38 [main] INFO  tests.ApiTests - Test completed
+2025-06-12 23:50:38 [main] INFO  tests.ApiTests - Http request body is ready
+2025-06-12 23:50:39 [main] INFO  tests.ApiTests - Test completed
+2025-06-12 23:50:41 [main] INFO  tests.ApiTests - Test completed
+2025-06-12 23:58:50 [main] INFO  tests.ApiTests - Test completed
+2025-06-12 23:58:50 [main] INFO  tests.ApiTests - Http request body is ready
+2025-06-12 23:58:50 [main] INFO  tests.ApiTests - Test completed
+2025-06-12 23:58:53 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 00:03:25 [main] INFO  tests.ApiTests - Http request body is ready
+2025-06-13 00:03:27 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 00:03:28 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 00:03:30 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 00:06:04 [main] INFO  tests.ApiTests - Http request body is ready
+2025-06-13 00:06:06 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 00:06:08 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 00:06:08 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 00:06:09 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 00:12:05 [main] INFO  tests.ApiTests - Http request body is ready
+2025-06-13 00:12:07 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 00:12:07 [main] INFO  tests.ApiTests - Http request body is ready
+2025-06-13 00:12:08 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 00:12:09 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 00:12:10 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 00:12:11 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 00:15:34 [main] INFO  tests.ApiTests - Http request body is ready
+2025-06-13 00:15:36 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 00:15:37 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 00:15:38 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 00:15:38 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 00:15:39 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 00:17:15 [main] INFO  tests.ApiTests - Http request body is ready
+2025-06-13 00:17:17 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 00:17:18 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 00:17:19 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 00:17:20 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 00:17:20 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 00:18:34 [main] INFO  tests.ApiTests - Http request body is ready
+2025-06-13 00:18:36 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 00:18:37 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 00:18:38 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 00:18:39 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 00:18:39 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 00:25:31 [main] INFO  tests.ApiTests - CreateToken------------
+2025-06-13 00:25:31 [main] INFO  tests.ApiTests - Api request body is ready
+2025-06-13 00:25:32 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 00:25:35 [main] INFO  tests.ApiTests - CreateToken------------
+2025-06-13 00:25:35 [main] INFO  tests.ApiTests - Api request body is ready
+2025-06-13 00:25:37 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 00:25:37 [main] INFO  tests.ApiTests - GetBookingIds------------
+2025-06-13 00:25:37 [main] INFO  tests.ApiTests - Api request is ready
+2025-06-13 00:25:38 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 00:25:38 [main] INFO  tests.ApiTests - GetBooking------------
+2025-06-13 00:25:38 [main] INFO  tests.ApiTests - Api request body is ready
+2025-06-13 00:25:39 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 00:25:39 [main] INFO  tests.ApiTests - CreateBooking------------
+2025-06-13 00:25:39 [main] INFO  tests.ApiTests - Api request body is ready
+2025-06-13 00:25:39 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 00:25:39 [main] INFO  tests.ApiTests - UpdateBooking------------
+2025-06-13 00:25:39 [main] INFO  tests.ApiTests - Api request body is ready
+2025-06-13 00:25:40 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 00:25:40 [main] INFO  tests.ApiTests - PartialUpdateBooking------------
+2025-06-13 00:25:40 [main] INFO  tests.ApiTests - Api request body is ready
+2025-06-13 00:25:41 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 00:25:41 [main] INFO  tests.ApiTests - DeleteBooking------------
+2025-06-13 00:25:41 [main] INFO  tests.ApiTests - Api request is ready
+2025-06-13 00:25:42 [main] INFO  tests.ApiTests - HealthCheck------------
+2025-06-13 00:25:42 [main] INFO  tests.ApiTests - DeleteBooking------------
+2025-06-13 00:26:58 [main] INFO  tests.ApiTests - CreateToken------------
+2025-06-13 00:26:58 [main] INFO  tests.ApiTests - Api request body is ready
+2025-06-13 00:27:00 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 00:27:00 [main] INFO  tests.ApiTests - GetBookingIds------------
+2025-06-13 00:27:00 [main] INFO  tests.ApiTests - Api request is ready
+2025-06-13 00:27:02 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 00:27:02 [main] INFO  tests.ApiTests - GetBooking------------
+2025-06-13 00:27:02 [main] INFO  tests.ApiTests - Api request body is ready
+2025-06-13 00:27:02 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 00:27:02 [main] INFO  tests.ApiTests - CreateBooking------------
+2025-06-13 00:27:02 [main] INFO  tests.ApiTests - Api request body is ready
+2025-06-13 00:27:03 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 00:27:03 [main] INFO  tests.ApiTests - UpdateBooking------------
+2025-06-13 00:27:03 [main] INFO  tests.ApiTests - Api request body is ready
+2025-06-13 00:27:04 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 00:27:04 [main] INFO  tests.ApiTests - PartialUpdateBooking------------
+2025-06-13 00:27:04 [main] INFO  tests.ApiTests - Api request body is ready
+2025-06-13 00:27:05 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 00:27:05 [main] INFO  tests.ApiTests - DeleteBooking------------
+2025-06-13 00:27:05 [main] INFO  tests.ApiTests - Api request is ready
+2025-06-13 00:27:05 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 00:27:05 [main] INFO  tests.ApiTests - HealthCheck------------
+2025-06-13 00:27:05 [main] INFO  tests.ApiTests - DeleteBooking------------
+2025-06-13 00:33:16 [main] INFO  tests.ApiTests - CreateToken------------
+2025-06-13 00:33:16 [main] INFO  tests.ApiTests - Api request body is ready
+2025-06-13 00:33:18 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 00:33:18 [main] INFO  tests.ApiTests - GetBookingIds------------
+2025-06-13 00:33:18 [main] INFO  tests.ApiTests - Api request is ready
+2025-06-13 00:33:19 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 00:33:19 [main] INFO  tests.ApiTests - GetBooking------------
+2025-06-13 00:33:19 [main] INFO  tests.ApiTests - Api request body is ready
+2025-06-13 00:33:20 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 00:33:20 [main] INFO  tests.ApiTests - CreateBooking------------
+2025-06-13 00:33:20 [main] INFO  tests.ApiTests - Api request body is ready
+2025-06-13 00:33:20 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 00:33:20 [main] INFO  tests.ApiTests - UpdateBooking------------
+2025-06-13 00:33:20 [main] INFO  tests.ApiTests - Api request body is ready
+2025-06-13 00:33:21 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 00:33:21 [main] INFO  tests.ApiTests - PartialUpdateBooking------------
+2025-06-13 00:33:21 [main] INFO  tests.ApiTests - Api request body is ready
+2025-06-13 00:33:22 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 00:33:22 [main] INFO  tests.ApiTests - DeleteBooking------------
+2025-06-13 00:33:22 [main] INFO  tests.ApiTests - Api request is ready
+2025-06-13 00:33:23 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 00:33:23 [main] INFO  tests.ApiTests - HealthCheck------------
+2025-06-13 00:33:23 [main] INFO  tests.ApiTests - DeleteBooking------------
+2025-06-13 00:36:51 [main] INFO  tests.ApiTests - CreateToken------------
+2025-06-13 00:36:51 [main] INFO  tests.ApiTests - Api request body is ready
+2025-06-13 00:36:53 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 00:36:53 [main] INFO  tests.ApiTests - GetBookingIds------------
+2025-06-13 00:36:53 [main] INFO  tests.ApiTests - Api request is ready
+2025-06-13 00:36:54 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 00:36:54 [main] INFO  tests.ApiTests - GetBooking------------
+2025-06-13 00:36:54 [main] INFO  tests.ApiTests - Api request body is ready
+2025-06-13 00:36:55 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 00:36:55 [main] INFO  tests.ApiTests - CreateBooking------------
+2025-06-13 00:36:55 [main] INFO  tests.ApiTests - Api request body is ready
+2025-06-13 00:36:56 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 00:36:56 [main] INFO  tests.ApiTests - UpdateBooking------------
+2025-06-13 00:36:56 [main] INFO  tests.ApiTests - Api request body is ready
+2025-06-13 00:36:56 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 00:36:56 [main] INFO  tests.ApiTests - PartialUpdateBooking------------
+2025-06-13 00:36:56 [main] INFO  tests.ApiTests - Api request body is ready
+2025-06-13 00:36:57 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 00:36:57 [main] INFO  tests.ApiTests - DeleteBooking------------
+2025-06-13 00:36:57 [main] INFO  tests.ApiTests - Api request is ready
+2025-06-13 00:36:58 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 00:36:58 [main] INFO  tests.ApiTests - HealthCheck------------
+2025-06-13 00:36:58 [main] INFO  tests.ApiTests - DeleteBooking------------
+2025-06-13 14:35:06 [main] INFO  tests.ApiTests - CreateToken------------
+2025-06-13 14:35:06 [main] INFO  tests.ApiTests - Api request body is ready
+2025-06-13 14:35:08 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 14:35:25 [main] INFO  tests.ApiTests - CreateToken------------
+2025-06-13 14:35:25 [main] INFO  tests.ApiTests - Api request body is ready
+2025-06-13 14:35:27 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 14:35:27 [main] INFO  tests.ApiTests - GetBookingIds------------
+2025-06-13 14:35:27 [main] INFO  tests.ApiTests - Api request is ready
+2025-06-13 14:35:30 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 14:35:30 [main] INFO  tests.ApiTests - GetBooking------------
+2025-06-13 14:35:30 [main] INFO  tests.ApiTests - Api request body is ready
+2025-06-13 14:35:31 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 14:35:31 [main] INFO  tests.ApiTests - CreateBooking------------
+2025-06-13 14:35:31 [main] INFO  tests.ApiTests - Api request body is ready
+2025-06-13 14:35:31 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 14:35:31 [main] INFO  tests.ApiTests - UpdateBooking------------
+2025-06-13 14:35:31 [main] INFO  tests.ApiTests - Api request body is ready
+2025-06-13 14:35:32 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 14:35:32 [main] INFO  tests.ApiTests - PartialUpdateBooking------------
+2025-06-13 14:35:32 [main] INFO  tests.ApiTests - Api request body is ready
+2025-06-13 14:35:33 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 14:35:33 [main] INFO  tests.ApiTests - DeleteBooking------------
+2025-06-13 14:35:33 [main] INFO  tests.ApiTests - Api request is ready
+2025-06-13 14:35:33 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 14:35:33 [main] INFO  tests.ApiTests - HealthCheck------------
+2025-06-13 14:35:33 [main] INFO  tests.ApiTests - DeleteBooking------------
+2025-06-13 14:37:54 [main] INFO  tests.ApiTests - CreateToken------------
+2025-06-13 14:37:54 [main] INFO  tests.ApiTests - Api request body is ready
+2025-06-13 14:37:56 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 14:37:56 [main] INFO  tests.ApiTests - GetBookingIds------------
+2025-06-13 14:37:56 [main] INFO  tests.ApiTests - Api request is ready
+2025-06-13 14:38:00 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 14:38:00 [main] INFO  tests.ApiTests - GetBooking------------
+2025-06-13 14:38:00 [main] INFO  tests.ApiTests - Api request body is ready
+2025-06-13 14:38:00 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 14:38:00 [main] INFO  tests.ApiTests - CreateBooking------------
+2025-06-13 14:38:00 [main] INFO  tests.ApiTests - Api request body is ready
+2025-06-13 14:38:01 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 14:38:01 [main] INFO  tests.ApiTests - UpdateBooking------------
+2025-06-13 14:38:01 [main] INFO  tests.ApiTests - Api request body is ready
+2025-06-13 14:38:02 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 14:38:02 [main] INFO  tests.ApiTests - PartialUpdateBooking------------
+2025-06-13 14:38:02 [main] INFO  tests.ApiTests - Api request body is ready
+2025-06-13 14:38:02 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 14:38:02 [main] INFO  tests.ApiTests - DeleteBooking------------
+2025-06-13 14:38:02 [main] INFO  tests.ApiTests - Api request is ready
+2025-06-13 14:38:03 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 14:38:03 [main] INFO  tests.ApiTests - HealthCheck------------
+2025-06-13 14:38:03 [main] INFO  tests.ApiTests - DeleteBooking------------
+2025-06-13 14:39:34 [main] INFO  tests.ApiTests - CreateToken------------
+2025-06-13 14:39:34 [main] INFO  tests.ApiTests - Api request body is ready
+2025-06-13 14:39:36 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 14:39:36 [main] INFO  tests.ApiTests - GetBookingIds------------
+2025-06-13 14:39:36 [main] INFO  tests.ApiTests - Api request is ready
+2025-06-13 14:39:40 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 14:39:40 [main] INFO  tests.ApiTests - GetBooking------------
+2025-06-13 14:39:40 [main] INFO  tests.ApiTests - Api request body is ready
+2025-06-13 14:39:41 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 14:39:41 [main] INFO  tests.ApiTests - CreateBooking------------
+2025-06-13 14:39:41 [main] INFO  tests.ApiTests - Api request body is ready
+2025-06-13 14:39:42 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 14:39:42 [main] INFO  tests.ApiTests - UpdateBooking------------
+2025-06-13 14:39:42 [main] INFO  tests.ApiTests - Api request body is ready
+2025-06-13 14:39:42 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 14:39:42 [main] INFO  tests.ApiTests - PartialUpdateBooking------------
+2025-06-13 14:39:42 [main] INFO  tests.ApiTests - Api request body is ready
+2025-06-13 14:39:43 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 14:39:43 [main] INFO  tests.ApiTests - DeleteBooking------------
+2025-06-13 14:39:43 [main] INFO  tests.ApiTests - Api request is ready
+2025-06-13 14:39:44 [main] INFO  tests.ApiTests - Test completed
+2025-06-13 14:39:44 [main] INFO  tests.ApiTests - HealthCheck------------
+2025-06-13 14:39:44 [main] INFO  tests.ApiTests - DeleteBooking------------

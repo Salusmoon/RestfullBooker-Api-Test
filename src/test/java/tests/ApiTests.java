@@ -1,3 +1,5 @@
+package tests;
+
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
 import org.apache.logging.log4j.LogManager;
@@ -15,10 +17,10 @@ import java.util.Random;
 
 import static org.testng.Assert.assertNotNull;
 
-public class HTTPRequests {
+public class ApiTests {
 
 
-    public static final Logger logger = LogManager.getLogger(HTTPRequests.class);
+    public static final Logger logger = LogManager.getLogger(ApiTests.class);
 
 
     @Test(priority = 1)
